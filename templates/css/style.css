@@ -1,0 +1,23 @@
+/* css project */
+
+
+.mg-form{
+    margin-bottom: 20px;
+}
+.form-group{
+    color:brown;
+    font-family: "Braah One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.row{
+
+    background-image: url("OIP.jpg");
+    background-size :cover;
+}
+ 
+.sos{
+    color:blue;
+
+}
+
